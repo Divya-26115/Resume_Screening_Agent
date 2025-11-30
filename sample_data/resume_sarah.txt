@@ -1,0 +1,4 @@
+Sarah Wilson
+- 2 years React and frontend engineering
+- Limited backend or cloud experience
+- Familiar with JavaScript and TypeScript

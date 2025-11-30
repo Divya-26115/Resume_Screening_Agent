@@ -1,0 +1,5 @@
+Mike Chen
+- 4 years Python, Docker containerization
+- Machine Learning projects in Python
+- Kubernetes and cloud deployment experience
+- SQL and database management

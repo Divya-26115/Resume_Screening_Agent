@@ -1,0 +1,8 @@
+Software Engineer Job Description
+Requirements:
+- 3+ years Python/Java experience
+- React/Next.js frontend experience
+- AWS/Docker deployment
+- SQL database experience
+- Git version control
+Nice to have: Machine Learning, Kubernetes
